@@ -6,7 +6,7 @@ Descriptive statistics:
 - Measure of Spead/ Dispersion (Range, Quartile, Percentiles, absolute deviation, variance and standard deviation)
 - Measure of Symmetry (Skewness)
 - Measure of Peakedness (Kurtosis)
-- 
+
 Inferential Statistics:
 
 -  Normal Distribution
@@ -16,5 +16,6 @@ Inferential Statistics:
 - Probability Distribution 
 - Probability density function
 - Probability mass function
-- Cumulative Distributive Function 
+- Cumulative Distributive Function
+ 
 Co varainace and Correlation
