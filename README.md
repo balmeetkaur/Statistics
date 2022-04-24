@@ -6,7 +6,9 @@ Descriptive statistics:
 - Measure of Spead/ Dispersion (Range, Quartile, Percentiles, absolute deviation, variance and standard deviation)
 - Measure of Symmetry (Skewness)
 - Measure of Peakedness (Kurtosis)
+- 
 Inferential Statistics:
+
 -  Normal Distribution
 - Standard Normal Distribution
 - CLT
